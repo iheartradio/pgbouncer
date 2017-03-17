@@ -35,7 +35,7 @@ If this container starts changing a lot, we will automate all of this stuff.
 ## Installation
 
 ```bash
-$ docker pull brainsam/pgbouncer:latest
+$ docker pull 827541288795.dkr.ecr.us-east-1.amazonaws.com/pgbouncer:0.0.1
 ```
 ## Configuration
 
